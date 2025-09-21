@@ -1,6 +1,6 @@
 # Adani Enterprises Stock Data Analysis Dashboard
 ![](https://github.com/sachinswaroop2002/Adani-Enterprise-Stock-Data-Analysis/blob/main/Adani%20Enterprise%20logo.jpg)
-This file contains the Adani Enterprises stock data analysis project, showcasing data cleaning and visualization techniques using Excel and Power BI. The dashboard offers key insights into the stock's performance over a year, sourced from NSE.
+    This file contains the Adani Enterprises stock data analysis project, showcasing data cleaning and visualization techniques using Excel and Power BI. The dashboard offers key insights into the stock's performance over a year, sourced from NSE.
 
 ## Project Workflow
 
